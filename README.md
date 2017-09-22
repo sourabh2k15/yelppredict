@@ -1,5 +1,6 @@
 # yelppredict
-###Prediction of Yelp Review Star Rating Using User Based Collaborative Filtering
+
+### Prediction of Yelp Review Star Rating Using User Based Collaborative Filtering
 
 Online reviews and their rating play a very important role in information dissemination and are currently the most influencing factor in user decisions. 
 In this project, we have utilized reviews ratings of yelp data challenge[1] to predict how likely a given user would be interested in 
@@ -9,4 +10,8 @@ of similar neighbors (K) considered on the root mean square error (RMSE) and acc
 
 
 Data used: Yelp dataset challenge round 8
+
+### Graphs
+
+[code&data/Documentation/Graphs/1.png](graph)
 
