@@ -1,5 +1,4 @@
 # yelppredict
-
 ###Prediction of Yelp Review Star Rating Using User Based Collaborative Filtering
 
 Online reviews and their rating play a very important role in information dissemination and are currently the most influencing factor in user decisions. 
