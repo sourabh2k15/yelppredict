@@ -11,7 +11,4 @@ of similar neighbors (K) considered on the root mean square error (RMSE) and acc
 
 Data used: Yelp dataset challenge round 8
 
-### Graphs
-
-![graph](code&data/Documentation/Graphs/1.png)
 
