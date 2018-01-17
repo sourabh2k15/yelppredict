@@ -13,5 +13,5 @@ Data used: Yelp dataset challenge round 8
 
 ### Graphs
 
-[code&data/Documentation/Graphs/1.png](graph)
+![graph](code&data/Documentation/Graphs/1.png)
 
